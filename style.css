@@ -17,7 +17,7 @@ html {
     align-items: center;
     flex-direction: column;
     margin: 5rem;
-
+	text-align: center;
 }
 
 .normal {
